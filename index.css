@@ -1,0 +1,152 @@
+html, body{
+    margin: 0;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    background: linear-gradient(135deg, red, purple);
+    color: black;
+
+   
+}
+:focus{
+    outline: none;
+}
+section{
+    height: 100%;
+    overflow: auto;
+    background: linear-gradient(red, purple);
+    color: white;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+section .leftpanel{
+    width: 400px;
+    margin-left: 50px; 
+}
+section .rightpanel{
+    background: white;
+    color: black;
+    width: 300px;
+    height: 350px;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+   /*margin-right: 50px;*/ 
+}
+section .leftpanel h1{
+    font-size: 40pt;
+}
+section .leftpanel p{
+   font-size: larger;
+}
+section .rightpanel .caption{
+    margin-top: 10px;
+}
+section .rightpanel input{
+    height: 35px;
+    border: 1px solid whitesmoke;
+    border-radius: 4px;
+    margin-top: 4px;
+}
+section .rightpanel .fpassword{
+    margin-top: 5px;
+    text-align: right;
+}
+section .rightpanel .fpassword span{
+    color: dodgerblue;
+    cursor: pointer;
+}
+section .rightpanel .fpassword span:hover{
+    color: blue;
+}
+shtml, body{
+    margin: 0;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    background: linear-gradient(135deg, red, purple);
+    color: black;
+
+   
+}
+:focus{
+    outline: none;
+}
+section{
+    height: 100%;
+    overflow: auto;
+    background: linear-gradient(red, purple);
+    color: white;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+section .leftpanel{
+    width: 400px;
+    margin-left: 50px; 
+}
+section .rightpanel{
+    background: white;
+    color: black;
+    width: 300px;
+    height: 350px;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+   /*margin-right: 50px;*/ 
+}
+section .leftpanel h1{
+    font-size: 40pt;
+}
+section .leftpanel p{
+   font-size: larger;
+}
+section .rightpanel .caption{
+    margin-top: 10px;
+}
+section .rightpanel input{
+    height: 35px;
+    border: 1px solid whitesmoke;
+    border-radius: 4px;
+    margin-top: 4px;
+}
+section .rightpanel .fpassword{
+    margin-top: 5px;
+    text-align: right;
+}
+section .rightpanel .fpassword span
+section .rightpanel .signup span{
+    color: dodgerblue;
+    cursor: pointer;
+}
+section .rightpanel .fpassword span:hover
+section .rightpanel .signup span:hover{
+    color: blue;
+}
+section .rightpanel button{
+    height: 40px;
+    border: none;
+    border-radius: 4px;
+    background: dodgerblue;
+    cursor: pointer;
+    color: white;
+    margin-top: 10px;
+}
+section .rightpanel button:hover{
+    background: blue;
+}
+section .rightpanel .signup{
+    margin-top: 30px;
+}
+section .rightpanel .signup span{
+    color: dodgerblue;
+    cursor: pointer;
+}
+section .rightpanel .signup span:hover{
+    color: blue;
+}
